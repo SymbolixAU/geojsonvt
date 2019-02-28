@@ -6,8 +6,7 @@
 \alias{geojsonvt-package}
 \title{Provides access to Mapbox Geojson-vt-cpp library}
 \description{
-More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Converts geojson into vector-tile format to be used inside 'Mapbox' maps
 }
 \examples{
 \dontrun{
@@ -16,4 +15,13 @@ More about what it does (maybe more than one line)
 // [[Rcpp::depends(geojsonvt)]]
 include <Rcpp.h>
 }
+}
+\author{
+\strong{Maintainer}: David Cooley \email{dcooley@symbolix.com.au}
+
+Other contributors:
+\itemize{
+  \item Mapbox (Author of c++ geojson-vt-cpp library) [contributor]
+}
+
 }
