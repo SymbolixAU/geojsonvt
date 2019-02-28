@@ -10,4 +10,5 @@ Description: Converts geojson into vector-tile format to be used inside 'Mapbox'
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
+LinkingTo: mapboxGeometry, mapboxVariant
 RoxygenNote: 6.1.1
