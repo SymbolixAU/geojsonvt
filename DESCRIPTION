@@ -7,7 +7,7 @@ Authors@R: c(
     person("Mapbox", , , role = "ctb", comment = "Author of c++ geojson-vt-cpp library")
     )
 Description: Converts geojson into vector-tile format to be used inside 'Mapbox' maps
-License: What license is it under?
+License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
