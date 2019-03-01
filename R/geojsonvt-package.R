@@ -1,3 +1,7 @@
+#' @useDynLib geojsonvt, .registration = TRUE
+#' @importFrom Rcpp sourceCpp
+NULL
+
 #' Provides access to Mapbox Geojson-vt-cpp library
 #'
 #' @examples
